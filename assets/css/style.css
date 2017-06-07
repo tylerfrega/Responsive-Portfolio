@@ -297,6 +297,11 @@ input {
     .res-logo{
     	left:0px;
     }
+
+    .img{
+        height:100%;
+        width:100%;
+    }
 }
 
 
@@ -333,14 +338,14 @@ input {
     }
 
     #portfolio{
-    width: 673px;
+    width: 581px;
     height: 760px;
     left: 18px;
 
     }
 
     #responsive {
-    width: 698px;
+    width: 606px;
     left: 18px;
     top: 921px;
     }
@@ -357,6 +362,11 @@ input {
     left: 210px;
     width: 199px;
     font-size: 13px;
+    }
+
+    .img{
+        height:100%;
+        width:100%;
     }
 }
 
@@ -380,12 +390,6 @@ input {
 
     }
 
-    .connect {
-    	left:17px;
-    	top:1010px;
-    	width:727px;
-    	text-align:left;
-    }
 
     .connect h2 {
     	width:90%;
@@ -401,16 +405,21 @@ input {
     }
 
     #portfolio{
-    width: 673px;
-    height: 760px;
+    width: 460px;
+    height: 1182px;
     left: 18px;
 
     }
 
+    .connect {
+       
+        text-align:center;
+    }
+
     #responsive {
-    width: 698px;
-    left: 18px;
-    top: 921px;
+     left:17px;
+        top:1312px;
+        width:485px;
     }
     #form{
     	width:338px;
@@ -429,4 +438,10 @@ input {
     .res-logo{
     	width:173px;
     }
+
+    .img{
+        height:100%;
+        width:100%;
+    }
 }
+
